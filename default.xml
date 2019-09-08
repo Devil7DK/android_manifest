@@ -779,5 +779,8 @@
   
   <!-- Remove Projects -->
   <include name="remove.xml"/>
+  
+  <!-- Reloaded -->
+  <include name="reloaded.xml"/>
 
 </manifest>

@@ -66,5 +66,19 @@
   <remove-project name="platform/hardware/qcom/sdm845/thermal"/>
   <remove-project name="platform/hardware/qcom/sdm845/vr"/>
   <remove-project name="platform/hardware/qcom/wlan" />
+  
+  <!-- Reloaded repos -->
+  <remove-project name="platform/bionic" />
+  <remove-project name="platform/bootable/recovery" />
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/soong" />
+  <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/frameworks/av" />
+  <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/hardware/ril" />
+  <remove-project name="platform/system/bt" />
+  <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/sepolicy" />
+  <remove-project name="platform/system/vold" />
  
 </manifest>
