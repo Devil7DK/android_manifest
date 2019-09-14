@@ -76,9 +76,11 @@
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/hardware/libhardware_legacy" />
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/providers/DownloadProvider" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/sepolicy" />

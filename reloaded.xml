@@ -31,12 +31,15 @@
   
   <project name="android_frameworks_av" path="frameworks/av" remote="reloaded" />
   <project name="android_frameworks_base" path="frameworks/base" remote="reloaded" />
+  <project name="android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="reloaded" />
   
   <project name="android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="reloaded" />
   <project name="LineageOS/android_hardware_lineage_interfaces" path="hardware/lineage/interfaces" remote="github" revision="refs/heads/lineage-17.0" />
   <project name="android_hardware_ril" path="hardware/ril" remote="reloaded" />
   
-  <project name="android_packages_apps_Settings" path="platform/packages/apps/Settings" remote="reloaded" />
+  <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="reloaded" />
+  
+  <project name="android_packages_providers_DownloadProvider" path="packages/providers/DownloadProvider" remote="reloaded" />
   
   <project name="LineageOS/android_prebuilts_tools-lineage" path="prebuilts/tools-lineage" remote="github" revision="refs/heads/lineage-17.0" />
   
