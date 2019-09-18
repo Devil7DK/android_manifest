@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
 
   <remote name="reloaded" 
-          fetch="https://github.com/ReloadedOS" 
+          fetch="https://github.com/ReloadedBeta" 
           revision="refs/heads/q" />
 
   <remote name="github" fetch="https://github.com" />
